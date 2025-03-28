@@ -1,0 +1,77 @@
+{
+  "sidebar": [
+    {
+      "id": "TEST 1",
+      "title": "Personality Explorer",
+      "icon": "icons/personality-explorer.svg",
+      "dropdown": [
+        { "title": "Understanding Personality Explorer", "link": "/personality-explorer/understanding" },
+        { "title": "Personality Types", "link": "/personality-explorer/personality-types" },
+        { "title": "Your Result", "link": "/personality-explorer/your-result" }
+      ]
+    },
+    {
+      "id": "TEST 2",
+      "title": "Interest Explorer",
+      "icon": "icons/interest-explorer.svg",
+      "dropdown": [
+        { "title": "Understanding Interest Explorer", "link": "/interest-explorer/understanding" },
+        { "title": "Interest Types", "link": "/interest-explorer/interest-types" },
+        { "title": "Your Result", "link": "/interest-explorer/your-result" }
+      ]
+    },
+    {
+      "id": "TEST 3",
+      "title": "Career Motivators",
+      "icon": "icons/career-motivators.svg",
+      "dropdown": [
+        { "title": "Understanding Career Motivators", "link": "/career-motivators/understanding" },
+        { "title": "Motivator Types", "link": "/career-motivators/motivator-types" },
+        { "title": "Your Result", "link": "/career-motivators/your-result" }
+      ]
+    },
+    {
+      "id": "TEST 4",
+      "title": "Emotional Intelligence",
+      "icon": "icons/emotional-intelligence.svg",
+      "dropdown": [
+        { "title": "Understanding Emotional Intelligence", "link": "/emotional-intelligence/understanding" },
+        { "title": "Intelligence Types", "link": "/emotional-intelligence/intelligence-types" },
+        { "title": "Your Result", "link": "/emotional-intelligence/your-result" }
+      ]
+    },
+    {
+      "id": "TEST 5",
+      "title": "Learning Styles",
+      "icon": "icons/learning-styles.svg",
+      "dropdown": [
+        { "title": "Understanding Learning Styles", "link": "/learning-styles/understanding" },
+        { "title": "Learning Types", "link": "/learning-styles/learning-types" },
+        { "title": "Your Result", "link": "/learning-styles/your-result" }
+      ]
+    }
+  ],
+  "personalityExplorer": {
+    "understanding": {
+      "title": "Understanding Personality Explorer",
+      "content": "Congratulations on taking the first step for personalized Career Planning & Assessment! We understand the significance of making informed decisions as you navigate your academic journey and future career. We are committed to empowering individuals with the tools and insights needed to confidently navigate the world of careers and education. To understand your personality Myers-Briggs Type Indicator (MBTI) test was used, it is a personality explorer psychometric assessment tool that helps individuals understand their preferences, strengths, and areas for growth. Developed by Isabel Briggs Myers and Katharine Cook Briggs, the MBTI categorizes individuals into 16 personality types based on four dichotomies. The goal is to gain deeper self-awareness, enhance personal development, and improve interpersonal relationships."
+    },
+    "dichotomies": [
+      { "left": "Extraversion (E)", "right": "Introversion (I)", "leftDesc": "Energized by social interactions and external activities", "rightDesc": "Energized by solitary activities and internal reflection" },
+      { "left": "Sensing (S)", "right": "Intuition (N)", "leftDesc": "Focuses on concrete, tangible information and present realities", "rightDesc": "Focuses on abstract, conceptual information and future possibilities" },
+      { "left": "Thinking (T)", "right": "Feeling (F)", "leftDesc": "Decisions based on logic and objective analysis", "rightDesc": "Decisions based on values and subjective evaluation" },
+      { "left": "Judging (J)", "right": "Perceiving (P)", "leftDesc": "Prefers structured, organized approaches and planning", "rightDesc": "Prefers flexible, spontaneous approaches and adaptability" }
+    ],
+    "benefits": [
+      { "title": "Self Awareness", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Leadership Development", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Career Alignment", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Career Planning", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Team Building", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Conflict Resolution", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Improved Communication", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Strength Identification", "content": "Focuses on concrete, tangible information and present realities" },
+      { "title": "Personal Growth", "content": "Focuses on concrete, tangible information and present realities" }
+    ]
+  }
+}
